@@ -133,9 +133,11 @@ body {
   margin: 0;
   padding: 0;
   cursor: pointer;
-  width: 460px;
+  width: 456px;
   height: 456px;
-  background-image: url('./images/humster.png');
+  background-image: url('./images/1.png');
+  background-position: center;
+  background-size: auto;
   border-radius: 50%;
   z-index: 1;
   background-color: #0b1977;
@@ -143,14 +145,6 @@ body {
   border: 15px solid #1e1adc;
 }
 
-/* .tap-container button img {
-  width: 20rem;
-  height: 20rem;
-  border-radius: 100%;
-  border: 15px solid #1e1adc;
-  transform: translate(-50%, -50%);
-  
-} */
 
 .energy {
   padding: 0 0 0 20px;
